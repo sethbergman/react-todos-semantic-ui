@@ -1,5 +1,7 @@
 # react-todos-semantic-ui
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/react-todos-semantic-ui.svg)](https://greenkeeper.io/)
+
 <p align="center"><img src="https://i.imgur.com/3H4CDEK.png" /></p>
 
 This project is the [react-redux Todo List example](https://github.com/reactjs/redux/tree/master/examples/todos) modified to use [semantic-ui](http://semantic-ui.com) components via the [semantic-ui-react](http://react.semantic-ui.com) integration. It is meant as a variation on a well-known example project to familiarize ReactJS developers with the installation and use of Semantic UI.
