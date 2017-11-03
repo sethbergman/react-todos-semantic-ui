@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "enzyme": "^3.1.0",
-    "react-scripts": "1.0.14",
+    "react-scripts": "1.0.17",
     "semantic-ui": "^2.2.9"
   },
   "scripts": {
